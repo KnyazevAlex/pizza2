@@ -1,4 +1,4 @@
-header h1{
+head h1{
     font-size: 64px;
     text-align: center;
     top:50%;
@@ -7,7 +7,7 @@ header h1{
     position: absolute;
     color: white;
 }
-header h2{
+head h2{
       font-size: 36px;
       color:#116655;
       text-align: center;
